@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanaterkan&show_icons=true&theme=radical)
 
 ---
 
