@@ -1,6 +1,6 @@
 # 👋 About Me
 
-## 🌟 Hi, I'm [Your Name]!
+## 🌟 Hi, I'm Erkan! Currently a student :)
 
 Welcome to my GitHub profile! I'm a passionate developer with a strong interest in Java, web development, and more. Whether it's building full-stack applications or experimenting with new frameworks, I love finding creative solutions to complex challenges.
 
