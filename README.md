@@ -40,7 +40,7 @@ Currently, I'm focused on improving my skills in:
 ## 📫 How to Reach Me
 
 - **Email:** kanaterkan@gmx.de  
-- **LinkedIn:** linkedin.com/in/erkankanat
+- **LinkedIn:** www.linkedin.com/in/erkankanat
 - **Website/Portfolio:** www.erkankanat.com
 
 ---
