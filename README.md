@@ -45,7 +45,7 @@ Currently, I'm focused on improving my skills in:
 
 ---
 
-## 🌱 Fun Fact
+
 
 ## 🌱 Fun Fact
 
